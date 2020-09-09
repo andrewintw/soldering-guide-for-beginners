@@ -2,6 +2,13 @@
 
 *Soldering Guide for Beginners*  
 
+----
+
+* 1921年，Ersa 創始人 Ernst Sachs 申請了第一支電烙鐵的專利。
+
+![](images/ersa_h1_kolben_alt.jpg)
+*Ersa H-1 -- 世界上第一個量產的電烙鐵*
+
 ## 焊接設備
 
 ### 必要設備
@@ -153,7 +160,6 @@ DIP 插件:
 
 ![](images/soldering_14.jpg) 
 
-
 * 焊錫含有松香（助焊劑）
 	* 加熱焊錫時，如果感覺有被東西噴到，通常就是揮發的松香。
 	* 當松香燒完的時候，焊錫或有牽絲感
@@ -162,6 +168,9 @@ DIP 插件:
 
 
 ## 焊接安全事項
+
+![](images/soldering_23.jpg)
+[Ref. image](https://external-preview.redd.it/0kz2aiBV_tk5MTYBmebtaMgsIzD4gVXE3fzt9w2ySm0.jpg?auto=webp&s=752c98cd5d1676e174b99243a702c2860a4bc0de)
 
 * 電線不要出現在你的移動範圍內
 * 注意走線方向，如果你慣用右手，盡量將烙鐵架置放在右手邊 (線從右邊來)。
