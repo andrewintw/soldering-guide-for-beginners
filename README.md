@@ -149,6 +149,17 @@ DIP 插件:
 ![](images/soldering_23.png)
 
 
+#### 護目鏡
+
+![](images/soldering_25.jpg) 
+
+![](images/soldering_26.jpg) 
+
+不，你不需要上面的東西。通常你需要的是這種。
+
+![](images/soldering_24.jpg)
+
+
 #### 第三隻手
 
 ![](images/soldering_16.jpg) 
