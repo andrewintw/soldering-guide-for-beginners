@@ -109,7 +109,7 @@ DIP 插件。元件的針腳會穿過 PCB 板，然後上錫固定。
 
 ![](images/soldering_15.jpg)
 
-價錢買最便宜的就好，我查了一下我們公司很多硬體工程師用的電錶都是不到 100 元的便宜貨，他們一樣能把自己的工作做好。
+價錢買最便宜的就好，我查了一下我們公司很多硬體工程師用的電錶都是不到 100 元的便宜貨 DT-830D，他們一樣能把自己的工作做好。
 
 #### 烙鐵頭清潔銅絲球
 
@@ -123,6 +123,8 @@ DIP 插件。元件的針腳會穿過 PCB 板，然後上錫固定。
 輔助固定零件、拆除零件
 
 ![](images/soldering_08.jpg)
+
+第一支買尖的，如果想買第二支，就買彎的。
 
 
 #### 防焊膠帶
@@ -257,10 +259,10 @@ DIP 插件。元件的針腳會穿過 PCB 板，然後上錫固定。
 
 ## 參考資料
 
-* [如何焊接 by 黃信惠的瘋狂教室](https://www.davidhuanglab.com/solderingiron?fbclid=IwAR01_P67pcvMrxJvvaOfSDN_Xe_xbITE-iQzLNZHjMKZCOcO6CuRAoc30Y0)
+* [如何焊接 by 黃信惠的瘋狂教室](https://www.davidhuanglab.com/solderingiron?fbclid=IwAR01_P67pcvMrxJvvaOfSDN_Xe_xbITE-iQzLNZHjMKZCOcO6CuRAoc30Y0) (非常清楚)
 * [Collin's Lab: Desoldering](https://www.youtube.com/watch?v=N_dvf45hN6Y)
 * [Collin's Lab: Soldering](https://www.youtube.com/watch?v=QKbJxytERvg&t=153s)
-* [10 STUPID ERRORS To AVOID in Soldering and TIPS](https://www.youtube.com/watch?v=Fp37DPZVdRI)
+* [10 STUPID ERRORS To AVOID in Soldering and TIPS](https://www.youtube.com/watch?v=Fp37DPZVdRI) (個人推薦！)
 * [How to Make Cool Things with Microcontrollers (For People Who Know Nothing)](http://mightyohm.com/files/soldercomic/translations/FullSolderComicChineseTraditional.pdf) 漫畫版 (中文翻譯)
 * [Adafruit Guide To Excellent Soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
 * [How to Solder: Through-Hole Soldering by Sparkfun](https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering/all)
